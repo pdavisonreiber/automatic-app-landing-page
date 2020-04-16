@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Statistics
     description                           : View average and standard deviation for data.
-    fontawesome_icon_name                 : calcuator
+    fontawesome_icon_name                 : calculator
     
   - title                                 : Sorting
     description                           : Sort results by name or by score.
