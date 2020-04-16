@@ -34,21 +34,31 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Mark tests and exams quickly and easily
+  - title                                 : Quick and Easy Entry
     description                           : Marks can be recorded with a single tap and then saved along with student names.
     fontawesome_icon_name                 : star
     
-  - title                                 : Enter maximum score
+  - title                                 : Set Maximum Score
     description                           : Enables automatic calculation of percentages and grades.
     fontawesome_icon_name                 : percentage
     
-  - title                                 : Enter grade boundaries
+  - title                                 : Grade Boundaries
     description                           : Can be entered individually or using presets.
     fontawesome_icon_name                 : graduation-cap
     
-  - title                                 : Export data
+  - title                                 : Data Export
     description                           : Marks can be exported to a CSV file for importing to spreasheet software.
     fontawesome_icon_name                 : file-export
+
+  - title                                 : Statistics
+    description                           : View average and standard deviation for data.
+    fontawesome_icon_name                 : calcuator
+    
+  - title                                 : Sorting
+    description                           : Sort results by name or by score.
+    fontawesome_icon_name                 : sort-alpha-down
+
+
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
